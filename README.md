@@ -9,3 +9,4 @@ Kaggle Project: https://www.kaggle.com/sid321axn/amazon-alexa-reviews
 
 **Visuals** </br>
 
+![wordcloud](https://user-images.githubusercontent.com/8282374/66099179-72dd4d00-e5c3-11e9-87d6-2326ed71a584.png)
